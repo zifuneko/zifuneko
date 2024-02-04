@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Zifu.
-- 👀 I’m interested in Program.
-- 🌱 I’m currently learning C++ & Python.
-- 📫 You can send me an email(zifu23@outlook.com) to contact me.
+- 👋 Hello there, I'm Zifu23.
+- 👀 Nice to meet you.
 
 <!---
 zifu23/zifu23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
