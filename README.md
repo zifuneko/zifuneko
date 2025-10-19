@@ -1,5 +1,4 @@
-- 👋 Hello there, I'm Zifu23.
-- 👀 Nice to meet you.
+nya~ I'm ZifuNeko!
 
 <!---
 zifu23/zifu23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
